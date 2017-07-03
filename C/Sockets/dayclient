@@ -1,0 +1,4 @@
+gcc -Wall dayclient.c -o dayclient
+
+
+
