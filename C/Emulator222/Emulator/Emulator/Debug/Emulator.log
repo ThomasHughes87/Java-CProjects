@@ -1,0 +1,67 @@
+﻿Build started 13/11/2015 14:43:32.
+     1>Project "\\nstu-uwe04\users4$\trw2-hughes\Windows\Desktop\Emulator222\Emulator\Emulator\Emulator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Emulator.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Emulator.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Emulator.cpp
+         Emulator.cpp
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(427): warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(512): warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(607): warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(656): warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(757): warning C4244: '=' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1412): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1419): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1892): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1904): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1918): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1931): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1943): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1955): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1969): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1982): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(1993): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2005): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2020): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2033): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2045): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2057): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2072): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2085): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2359): warning C4244: 'argument' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2365): warning C4244: 'argument' : conversion from 'unsigned short' to 'unsigned char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2725): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2739): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2808): warning C4244: '=' : conversion from '_TCHAR' to 'char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2817): warning C4244: '=' : conversion from '_TCHAR' to 'char', possible loss of data
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2897): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2903): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2906): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2947): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2973): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2983): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(2988): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(3029): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(3032): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : see declaration of 'sscanf'
+     1>\\nstu-uwe04\users4$\trw2-hughes\windows\desktop\emulator222\emulator\emulator\emulator.cpp(3071): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\nstu-uwe04\users4$\trw2-hughes\Windows\Desktop\Emulator222\Emulator\Debug\Emulator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\nstu-uwe04\users4$\trw2-hughes\Windows\Desktop\Emulator222\Emulator\Debug\Emulator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\nstu-uwe04\users4$\trw2-hughes\Windows\Desktop\Emulator222\Emulator\Debug\Emulator.lib" /MACHINE:X86 Debug\Emulator.obj
+         Debug\stdafx.obj
+         Emulator.vcxproj -> \\nstu-uwe04\users4$\trw2-hughes\Windows\Desktop\Emulator222\Emulator\Debug\Emulator.exe
+     1>Done Building Project "\\nstu-uwe04\users4$\trw2-hughes\Windows\Desktop\Emulator222\Emulator\Emulator\Emulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.02
